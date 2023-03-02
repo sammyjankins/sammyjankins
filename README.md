@@ -11,7 +11,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sammyjankins&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sammyjankins&theme=solarized_dark)
+[](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sammyjankins&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sammyjankins&theme=solarized_dark)
 
