@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sammyjankins&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sammyjankins&theme=2077)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sammyjankins&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sammyjankins&theme=2077)
 
-[](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sammyjankins&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sammyjankins&theme=2077)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sammyjankins&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sammyjankins&theme=2077)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sammyjankins&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sammyjankins&theme=2077)
 
 <!---
 sammyjankins/sammyjankins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
