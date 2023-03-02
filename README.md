@@ -7,13 +7,8 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![](https://raw.githubusercontent.com/sammyjankinssammyjankinssammyjankins/github-profile-summary-cards-example/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/sammyjankins/github-profile-summary-cards)
-
-[![](https://raw.githubusercontent.com/sammyjankinssammyjankinssammyjankinssammyjankins/github-profile-summary-cards-example/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/sammyjankinssammyjankins/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/sammyjankinssammyjankinssammyjankinssammyjankins/github-profile-summary-cards-example/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/sammyjankinssammyjankinssammyjankins/github-profile-summary-cards)
-
-[![](https://raw.githubusercontent.com/sammyjankins/github-profile-summary-cards-example/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/sammyjankinssammyjankins/github-profile-summary-cards) 
-sammyjankinssammyjankinssammyjankinssammyjankins[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/sammyjankins/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/sammyjankins/github-profile-summary-cards-example/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/sammyjankins/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/sammyjankins/github-profile-summary-cards-example/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/sammyjankins/github-profile-summary-cards)
 
 
 <!---
