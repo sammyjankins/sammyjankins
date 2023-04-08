@@ -11,6 +11,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sammyjankins&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sammyjankins&theme=2077)
 
+![](https://leetcard.jacoblin.cool/sammyjankins?ext=activity&theme=nord)
+
 
 <!---
 sammyjankins/sammyjankins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
