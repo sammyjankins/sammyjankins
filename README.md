@@ -11,6 +11,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sammyjankins&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sammyjankins&theme=2077)
 
+[![codewars](https://www.codewars.com/users/sammyjankins/badges/large)](https://www.codewars.com/users/sammyjankins)   
+
 ![](https://leetcard.jacoblin.cool/sammyjankins?ext=activity&theme=nord)
 
 
